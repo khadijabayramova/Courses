@@ -1,0 +1,34 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "content": "This course offers an introduction to programming with hands-on practice. You'll learn the basics of coding using popular programming languages and tools.",
+      "title": "Introduction to Programming",
+      "price": 10.99
+    },
+    {
+      "id": 2,
+      "content": "This course covers web development fundamentals, teaching HTML, CSS, and JavaScript to help you create dynamic websites from scratch.",
+      "title": "Web Development Fundamentals",
+      "price": 20.99
+    },
+    {
+      "id": 3,
+      "content": "This course introduces data science concepts such as data analysis, visualization, and machine learning using Python libraries like Pandas and Matplotlib.",
+      "title": "Data Science with Python",
+      "price": 30.99
+    },
+    {
+      "id": 4,
+      "content": "Learn advanced software development techniques such as object-oriented programming, design patterns, and code optimization practices in this comprehensive course.",
+      "title": "Advanced Software Development",
+      "price": 40.99
+    },
+    {
+      "id": 5,
+      "content": "Explore digital marketing strategies, including SEO, social media marketing, and content creation, to grow your online presence and drive traffic.",
+      "title": "Digital Marketing Mastery",
+      "price": 50.99
+    }
+  ]
+}
